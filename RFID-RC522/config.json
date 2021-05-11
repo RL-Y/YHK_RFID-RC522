@@ -19,7 +19,6 @@
       "dir": "arduinoC/",
       "version": "0.0.1",
       "board": [
-        "microbit",
         "esp32",
         "arduino"
       ],
